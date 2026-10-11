@@ -17,8 +17,8 @@
 
 ## 檔案
 
-- `thumbs_up_trophy_200mm.stl`：列印網格，單位 mm。
-- `thumbs_up_trophy_editable.blend`：Blender 原始檔，含完成模型、隱藏建構部件、相機及燈光。
+- [thumbs_up_trophy_200mm.stl（Release 下載）](https://github.com/root50643/thumbs-up-trophy-3d/releases/download/v1.0.0/thumbs_up_trophy_200mm.stl)：列印網格，單位 mm。大型 STL 另存於 Release 附件，不包含在儲存庫的 Source code ZIP 中。
+- [thumbs_up_trophy_editable.blend](thumbs_up_trophy_editable.blend)：Blender 原始檔，含完成模型、隱藏建構部件、相機及燈光。
 - `create_trophy.py`：程序化建模原始碼。
 - `close_hand_volume.py`：手部實體封閉處理程式。
 - `sculpt_displacements.npz`：數值雕塑位移資料，重建時需要；不含參考圖片。
@@ -26,6 +26,8 @@
 - `validate_stl.py`、`validation.json`：獨立 STL 檢查程式與結果。
 - `column_section_validation.json`：不同高度的柱身截面座標。
 - `trophy_*.png`、`hand_*_detail.png`、`hexagonal_column_review.png`：實際模型預覽。
+
+下載 STL 後請放在其他原始檔的同一資料夾，才可執行 `validate_stl.py` 或以 `SHA256SUMS` 核對完整套件。
 
 ## 尺寸與幾何檢查
 
