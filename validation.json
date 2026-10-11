@@ -1,0 +1,49 @@
+{
+  "shaft_section_edge_counts": [
+    6,
+    6,
+    6,
+    6,
+    6
+  ],
+  "shaft_planar_side_count": 6,
+  "file": "thumbs_up_trophy_200mm.stl",
+  "units": "millimetres",
+  "sha256": "2507f997916d359866b42ed57a2c246a06149536488bb48c185a9f595101b1bc",
+  "finite_vertex_coordinates": true,
+  "watertight": true,
+  "winding_consistent": true,
+  "positive_volume": true,
+  "volume_mm3": 150865.81185521462,
+  "bounds_mm": [
+    [
+      -30.638206481933594,
+      -24.669239044189453,
+      0.0
+    ],
+    [
+      30.638206481933594,
+      24.669239044189453,
+      200.0
+    ]
+  ],
+  "dimensions_mm": [
+    61.27641296386719,
+    49.338478088378906,
+    200.0
+  ],
+  "connected_surface_components": 1,
+  "euler_characteristic": 2,
+  "through_hole_handles": 0,
+  "internal_shells": 0,
+  "nonmanifold_or_boundary_edges": 0,
+  "nonmanifold_vertex_links": 0,
+  "degenerate_triangles": 0,
+  "triangle_count": 813622,
+  "vertex_count": 406813,
+  "base_minimum_z_mm": 0.0,
+  "coplanar_base_area_mm2": 2522.7696863317396,
+  "physical_test_print_performed": false,
+  "limitations": "Geometric topology checks only; not a slicer simulation, self-intersection certification, or physical print test.",
+  "pass": true
+}
