@@ -4,11 +4,9 @@
 
 ## 模型預覽
 
-### 正面
-![獎座正面實際模型渲染](trophy_front.png)
-
-### 透視
-![獎座透視實際模型渲染](trophy_perspective.png)
+| 正面 | 透視 |
+| :---: | :---: |
+| [<img src="trophy_front.png" alt="獎座正面實際模型渲染" width="320">](trophy_front.png) | [<img src="trophy_perspective.png" alt="獎座透視實際模型渲染" width="320">](trophy_perspective.png) |
 
 ### 六邊形柱身截面
 ![從實際 STL 取得的六邊形截面與模型透視](hexagonal_column_review.png)
